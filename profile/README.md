@@ -8,4 +8,4 @@ This project is divided into three aspects:
 - `The Site (Frontend)`: a website where you can access, view and interact with SMC's grade distribution data and that will help inform you on what classes and professors to take.
 
 This project is currently a work in progress.
-Currently Working On: `The Pipeline`
+Currently Working On: `The API (Backend)`
