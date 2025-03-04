@@ -28,3 +28,6 @@ Our work is divided into the following repositories:
 
 ## 📧 Contact  
 For questions, feedback, or collaboration opportunities, feel free to open an **issue** or reach out via **📩 asarelc@gmail.com**.  
+
+## Attribution
+_<a href="https://www.flaticon.com/free-icons/education-technology" title="education technology icon">Education technology icon created by gravisio - Flaticon</a>_
