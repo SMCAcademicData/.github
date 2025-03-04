@@ -1,11 +1,30 @@
-## Welcome to SMC Grades
+# 📚 SMC Historical Data  
 
-A github orgnization that stores all the work done to help make Santa Monica College (SMC)'s grade distribtuion data and class schedule more accessible!
+### 📌 Making Santa Monica College (SMC) historical grade distribution and class schedule data more accessible.
 
-This project is divided into the following:
-- `Grade Distribution Transformer`: a python script that transforms .xlsx files created from SMC's grade distribtuion PDFs into usuable .csv and .json files. This tool was created to allow me to easily transform and upload the data into a database.
-- `Class Schedule Scrapper`: a python script that scrapes all available class schedules made public by SMC and creates .csv files out of them.
-- `SMC Grades API (Backend)`: a set of routes and functions that take SMC's grade distribution data and allow you to pull and manipulate from a database (created by yours truly).
+## 📖 About  
+**SMC Historical Data** is a GitHub organization dedicated to improving access to **Santa Monica College (SMC)’s** grade distribution data and class schedules. Our goal is to transform **PDF tables** and **HTML pages** into structured **dataframes** ready for use in **R** and **Python**, enabling students and developers to **analyze, visualize, and utilize** SMC’s academic records more efficiently.  
 
-This project is currently a work in progress.
-Currently Working On: `Class Schedule Scrapper`
+## 📂 Projects  
+Our work is divided into the following repositories:  
+
+### 📜 **Docs**  
+- An **HTML website** built on **Quarto** that documents the **process and learnings** of this project.  
+
+### 📅 **Class Schedule Scraper**  
+- A **Python script** that scrapes **all available class schedules** published by SMC.  
+- Extracts and converts schedule data into **.csv** and **.RDATA** files for easy access.  
+
+### 📊 **Grade Distribution Transformer**  
+- A **Python script** that processes **all available PDF tables** published by SMC.  
+- Extracts and converts grade distribution data into **.csv** and **.RDATA** files for easy access.  
+
+### 🔌 **SMCGrades API**  
+- A **backend service** offering **routes and functions** for accessing SMC’s grade distribution data.  
+- Enables users to **retrieve and manipulate** data stored in a **database**.  
+
+## 🚀 Current Progress  
+🚧 **Docs** & **Class Schedule Scraper** (Currently being built)
+
+## 📧 Contact  
+For questions, feedback, or collaboration opportunities, feel free to open an **issue** or reach out via **📩 asarelc@gmail.com**.  
