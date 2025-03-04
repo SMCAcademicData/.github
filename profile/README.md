@@ -1,4 +1,4 @@
-# 📚 SMC Data  
+# 📚 SMC (Academic) Data  
 
 ### 📌 Making Santa Monica College (SMC) historical grade distribution and class schedule data more accessible.
 
